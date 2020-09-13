@@ -1,7 +1,7 @@
 import discord
 import os
 
-client = discord.Client(activity=discord.game("with Banana Pie!"))
+client = discord.Client(activity=discord.Game("with Banana Pie!"))
 
 @client.event
 async def on_ready():
