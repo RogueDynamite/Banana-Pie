@@ -1,5 +1,6 @@
 import discord
 import os
+import aiohttp
 
 client = discord.Client(activity=discord.Game("with Banana Pie!"))
 
