@@ -7,3 +7,6 @@ app = Flask(__name__)
 def banana_pie():
         return '<img src="https://www.spendwithpennies.com/wp-content/uploads/2019/07/Banana-Cream-Pie01-SpendWithPennies-3.jpg">'
 
+if __name__ == '__main__':
+    app.run()
+
