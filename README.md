@@ -1,4 +1,4 @@
-A simple Discord bot that posts a picture of a pie when the bp!pie command is invoked. Also has a [website](https://banana-pie.herokuapp.com/) with a picture of a banana pie!
+A simple Discord bot that posts a picture of a pie when the `bp!pie` command is invoked. Also has a [website](https://banana-pie.herokuapp.com/) with a picture of a banana pie!
 
 Exists just so I can test how Heroku works.
 
